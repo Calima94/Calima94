@@ -17,7 +17,7 @@ Here are some ideas to get you started: -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Calima94&layout=compact&langs_count=5&theme=dark&count_private=true)](https://github.com/Calima94/github-readme-stats)
 
 
-<img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">   <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
-## Researchgate and Lattes Curriculum
+<img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">   <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  	
+## Researchgate, Lattes Curriculum and Linkedin
 
-<a href="https://www.researchgate.net/profile/Caio-Lima-15" target="_blank"> <img height="60" width="150" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white/" target="_blank"> </a> <a href="http://lattes.cnpq.br/0127370029893676" target="_blank"> <img   height="60" width="70" src="https://www.ufpb.br/educacaofinanceira/contents/imagens/diversos/icon-lattes/@@images/image.jpeg" target="_blank"> </a>
+<a href="https://www.researchgate.net/profile/Caio-Lima-15" target="_blank"> <img height="60" width="130" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white/" target="_blank"> </a> <a href="http://lattes.cnpq.br/0127370029893676" target="_blank"> <img   height="60" width="70" src="https://www.ufpb.br/educacaofinanceira/contents/imagens/diversos/icon-lattes/@@images/image.jpeg" target="_blank"> </a> <a href="https://www.linkedin.com/feed/" target="_blank"> <img   height="60" width="150" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
