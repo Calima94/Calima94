@@ -12,4 +12,5 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about ROS, SkLearn, Python
 - 📫 How to reach me: clima@ufabc.edu.br
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=Calima94&show_icons=true)
+![Caio Status](https://github-readme-stats.vercel.app/api?username=Calima94&show_icons=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Calima94&layout=compact)](https://github.com/Calima94/github-readme-stats)
